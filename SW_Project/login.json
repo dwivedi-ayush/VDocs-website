@@ -1,0 +1,17 @@
+[
+    {
+        "url" : "./images/login_admin.svg",
+        "para" : "Admin",
+        "info" : "Admins have the highest priority in our college management system. Admin have the all access of the database. They have permission like to view the information, edit the information, delete the information etc. They are responsible for managing different roles and announcements."
+    },
+    {
+        "url" : "./images/login_faculty.svg",
+        "para" : "Faculty",
+        "info" : "Faculties can access re-eval page, department change and program migration. The can give the notification to the student related to department or college. Different faculties are privileged to access the notice board and address different queries of the student"
+    },
+    {
+        "url" : "./images/login_student.svg",
+        "para" : "Student",
+        "info" : "Students can access the notice board to get the spotlight information, academic announcements and information by authorities, put up their grievances in front of their faculty and administrator. Program representative can directly convey their grievance/requests to the higher authority."
+    }
+]

@@ -1,0 +1,56 @@
+body {
+  background-image: url("bg.svg");
+  background-color: #0f1320;
+}
+
+.heading {
+  color: white;
+}
+.better {
+  color: blanchedalmond;
+  font-size: 50px;
+}
+.text {
+  color: white;
+  padding: 20px;
+}
+.item {
+  margin-top: 20px;
+  font-size: 25px;
+  height: 70px;
+}
+.list {
+  height: 400px;
+}
+.btn {
+  margin-left: 20px;
+  margin-top: 25px;
+  background-color: white;
+  height: 30px;
+  border-style: solid;
+  border-color: #1c264a;
+  border-radius: 10px;
+  border-width: 3px;
+  padding: 3px 30px;
+  color: #0f1320;
+  position: absolute;
+  transform: translate(1000px, -490px);
+}
+.btn:hover {
+  background-color: #b4aad5;
+}
+.item1:hover {
+  font-size: 26px;
+}
+.item2:hover {
+  font-size: 26px;
+}
+.item3:hover {
+  font-size: 26px;
+}
+.item4:hover {
+  font-size: 26px;
+}
+.item5:hover {
+  font-size: 26px;
+}
